@@ -8,17 +8,8 @@
 Tracking my progress and assignments for the Jan-Apr 2026 NPTEL semester. 
 
 ## 🎯 Enrolled Courses
-- 🐍 **Python for Data Science** (4 Weeks)
 - 🎮 **The Joy of Computing using Python** (12 Weeks)
-- 📊 **Data Analytics with Python** (12 Weeks)
-- 💻 **Programming in Modern C++** (12 Weeks)
-
-## 📅 Weekly Checklist
-- [ ] Week 1: Lectures & Assignment
-- [ ] Week 2: Lectures & Assignment
-- [ ] Week 3: Lectures & Assignment
-- [ ] Week 4: Lectures & Assignment
-
+- **Enhancing SOftskills and personality** (8 weeks)
 ---
 *Goal: Aiming for Elite/Silver certification in all courses!* 🚀
 
